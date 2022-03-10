@@ -1,0 +1,3 @@
+export const CART_PRODUCT = "CART_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+
